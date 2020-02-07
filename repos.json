@@ -1,1 +1,21 @@
-{}
+{
+  "gitlab": [
+    {
+      "owner": "novotkry",
+      "repo": "mi-aph",
+      "url": "https://gitlab.fit.cvut.cz"
+    }
+  ],
+  "github": [
+    {
+      "owner": "novotkry",
+      "repo": "mi-pyt-final",
+      "url": "https://api.github.com"
+    },
+    {
+      "owner": "novotkry",
+      "repo": "foo-bar",
+      "url": "https://api.github.com"
+    }
+  ]
+}
